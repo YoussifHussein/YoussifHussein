@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋, I'm a Youssif Hussein</h2>
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
-###
+
 <h3 align="left">👩‍💻  About Me :</h3>
 <br>
-<p align="left">🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br>🌱 I’m currently learning Backend Development & Software Development .<br><br>💬 Ask me about Laravel & PHP .<br><br>📫 How to reach me **youssifhussein32@gmail.com** </p>
+<p align="left">• 🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br>• 🌱 I’m currently learning Backend Development & Software Development .<br><br>• 💬 Ask me about Laravel & PHP . </p>
 
 ###
 <h3 align="left">👩‍💻 Connect With Me :</h3>
