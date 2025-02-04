@@ -1,11 +1,9 @@
 <h2 align="center">Hi 👋, I'm a Youssif Hussein</h2>
-
+<h3 align="center">A passionate Backend Developer from Egypt</h3>
 ###
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me :</h3>
 <br>
-<p align="left">🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br>🌱 I’m currently learning Backend Development & Software Development .<br><br>💬 Ask me about Laravel & PHP .<br><br>📫 How to reach me <a href="[youssifhussein32@gmail.com](mailto:youssifhussein32@gmail.com)📧">Gmail</a>  
-
-</p>
+<p align="left">🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br>🌱 I’m currently learning Backend Development & Software Development .<br><br>💬 Ask me about Laravel & PHP .<br><br>📫 How to reach me **youssifhussein32@gmail.com** </p>
 
 ###
 <h3 align="left">👩‍💻 Connect With Me :</h3>
@@ -29,7 +27,7 @@
 </div>
 
 ###
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools :</h3>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -58,7 +56,7 @@
 </div>
 
 ###
-<br><br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussifHussein&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
