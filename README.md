@@ -2,13 +2,13 @@
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br>🌱 I’m currently learning Backend Development & Software Development .<br><br>💬 Ask me about Laravel & PHP .<br><br>📫 How to reach me <a href="youssifhussein32@gmail.com"></a>
+<br>
+<p align="left">🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br>🌱 I’m currently learning Backend Development & Software Development .<br><br>💬 Ask me about Laravel & PHP .<br><br>📫 How to reach me <a href="youssifhussein32@gmail.com">Gmail</a>
 </p>
 
 ###
 <h3 align="left">👩‍💻 Connect With Me :</h3>
-
+<br>
 <div align="left">
   <a href="https://www.linkedin.com/in/youssifhussein/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
@@ -22,9 +22,6 @@
   <a href="https://www.instagram.com/youssif_hussein10/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
   </a>
-  <a href="youssifhussein32@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  />
-  </a>
   <a href="https://stackoverflow.com/users/28645199/youssif-hussein" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="30" alt="stackoverflow logo"  />
   </a>
@@ -32,8 +29,8 @@
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
-
-<div align="center">
+<br>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -60,7 +57,7 @@
 </div>
 
 ###
-
+<br><br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussifHussein&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
