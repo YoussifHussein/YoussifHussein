@@ -2,9 +2,12 @@
 
 ###
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br>🌱 I’m currently learning Backend Development & Software Development .<br><br>💬 Ask me about Laravel & PHP .<br><br>📫 How to reach me youssifhussein32@gmail.com</p>
+
+<p align="left">🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br>🌱 I’m currently learning Backend Development & Software Development .<br><br>💬 Ask me about Laravel & PHP .<br><br>📫 How to reach me <a href="youssifhussein32@gmail.com"></a>
+</p>
 
 ###
+<h3 align="left">👩‍💻 Connect With Me :</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/youssifhussein/" target="_blank">
@@ -28,6 +31,7 @@
 </div>
 
 ###
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
