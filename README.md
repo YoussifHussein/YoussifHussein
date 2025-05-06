@@ -15,10 +15,10 @@
   <a href="https://x.com/YoussifHussein_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/youssifhussein2003" target="_blank">
+  <a href="https://www.facebook.com/youssifhussein32" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="30" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/youssif_hussein10/" target="_blank">
+  <a href="https://www.instagram.com/youssifhussein_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
   </a>
   <a href="https://stackoverflow.com/users/28645199/youssif-hussein" target="_blank">
