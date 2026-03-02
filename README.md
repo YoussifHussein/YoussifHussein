@@ -1,11 +1,64 @@
-<h2 align="center">Hi 👋, I'm Youssif Hussein</h2>
+#
+ <p align="center">Hi 👋, I'm Youssif Hussein | Tech Portfolio ✨</p>
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
 
-<h3 align="left">• 👩‍💻 About Me :</h3>
-<br>
-<p align="left"> 🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br> 🌱 I’m currently learning Backend Development & Software Development .<br><br> 💬 Ask me about Laravel & PHP . </p>
+<div align="center">
 
+<pre>
+██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗██╗███████╗   ██╗  ██╗██╗   ██╗███████╗███████╗██╗███╗   ██╗
+╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██║██╔════╝   ██║  ██║██║   ██║██╔════╝██╔════╝██║████╗  ██║
+ ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗██║█████╗     ███████║██║   ██║███████╗███████╗██║██╔██╗ ██║
+  ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██║██╔══╝     ██╔══██║██║   ██║╚════██║╚════██║██║██║╚██╗██║
+   ██║   ╚██████╔╝╚██████╔╝███████║███████║██║██║        ██║  ██║╚██████╔╝███████║███████║██║██║ ╚████║
+   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝╚═╝        ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%94%A5;Python+Developer+%F0%9F%90%8D;ETL+Pipeline+Builder+%E2%9A%99%EF%B8%8F;Turning+Raw+Data+into+Gold+%F0%9F%92%A1" alt="Typing SVG" />
+
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58ffdb?style=for-the-badge&logo=apache-spark&logoColor=black" />
+  <img src="https://img.shields.io/badge/Main%20Language-Python-00b8ff?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative-Photography-orange?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</p>
+
+---
+
+### ⚡ Quick Snapshot
+<table align="center" border="0">
+  <tr>
+    <td width="55%" style="vertical-align: top; border: none;">
+       <h3 align="left">• 👩‍💻 About Me :</h3>
+   
+   <p align="left"> 🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br> 🌱 I’m currently learning Backend Development & Software       Development .<br><br> 💬 Ask me about Laravel & PHP . </p>
+  
 ###
+<h3 align="left">• 👩‍💻 Connect With Me :</h3>
+
+    </td>
+    
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,bootstrap,sass,ae,ps,ai,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black" />
+</p>
+
+---
+
+### 
 <h3 align="left">• 👩‍💻 Connect With Me :</h3>
 <br>
 <div align="left">
@@ -26,39 +79,3 @@
   </a>
 </div>
 
-###
-<h3 align="left">• 🛠 Language and tools :</h3>
-<br>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-</div>
-
-###
-<!-- <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussifHussein&locale=en&hide_title=false&layout=compact&card_width=700&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  /> -->
-</div>
-
-###
