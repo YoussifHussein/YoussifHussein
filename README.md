@@ -26,18 +26,18 @@
 
 ---
 
-### ⚡ Quick Snapshot
+### • 👩‍💻 About Me :
 <table align="center" border="0">
   <tr>
     <td width="55%" style="vertical-align: top; border: none;">
-       <h3 align="left">• 👩‍💻 About Me :</h3>
+       <!-- <h3 align="left">• 👩‍💻 About Me :</h3> -->
    
    <p align="left"> 🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br> 🌱 I’m currently learning Backend Development & Software       Development .<br><br> 💬 Ask me about Laravel & PHP . </p>
   
 ###
 <!-- <h3 align="left">• 👩‍💻 Connect With Me :</h3> -->
 
-    </td>
+
     
   </tr>
 </table>
