@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering-58ffdb?style=for-the-badge&logo=apache-spark&logoColor=black" />
   <img src="https://img.shields.io/badge/Main%20Language-Python-00b8ff?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creative-Photography-orange?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### • 🛠️ Tech Stack & Tools :
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,bootstrap,sass,ae,ps,ai,git,github&theme=dark" />
 </p>
