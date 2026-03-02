@@ -46,13 +46,13 @@
 ### 
 • 🛠️ Tech Stack & Tools :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,bootstrap,sass,ae,ps,ai,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,aws,docker,postman,ubuntu,ai,php,laravel,html,css,bootstrap,git,github,notion&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black" />
 </p>
 
