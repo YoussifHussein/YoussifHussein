@@ -1,6 +1,6 @@
 #
  <p align="center">Hi 👋, I'm Youssif Hussein | Tech Portfolio ✨</p>
-<h3 align="center">A passionate Backend Developer from Egypt</h3>
+<h3 align="center">A passionate Data Engineer from Egypt</h3>
 
 <div align="center">
 
@@ -26,25 +26,25 @@
 
 ---
 
-### • 👩‍💻 About Me :
+###
+• 👩‍💻 About Me :
 <table align="center" border="0">
   <tr>
     <td width="55%" style="vertical-align: top; border: none;">
        <!-- <h3 align="left">• 👩‍💻 About Me :</h3> -->
    
-   <p align="left"> 🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br> 🌱 I’m currently learning Backend Development & Software       Development .<br><br> 💬 Ask me about Laravel & PHP . </p>
+   <p align="left"> 🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br> 🌱 I’m currently learning Data Engineer & Backend Development       Development .<br><br> 💬 Ask me about Big Data . </p>
   
 ###
 <!-- <h3 align="left">• 👩‍💻 Connect With Me :</h3> -->
 
-
-    
   </tr>
 </table>
 
 ---
 
-### • 🛠️ Tech Stack & Tools :
+### 
+• 🛠️ Tech Stack & Tools :
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,bootstrap,sass,ae,ps,ai,git,github&theme=dark" />
 </p>
