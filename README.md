@@ -27,7 +27,9 @@
 ---
 
 ###
-• 👩‍💻 About Me :
+
+<h3 align="left">• 👩‍💻 About Me :</h3>
+
 <table align="center" border="0">
   <tr>
     <td width="55%" style="vertical-align: top; border: none;">
@@ -44,7 +46,7 @@
 ---
 
 ### 
-• 🛠️ Tech Stack & Tools :
+<h3 align="left">• 🛠️ Tech Stack & Tools :</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,aws,docker,postman,ubuntu,ai,php,laravel,html,css,bootstrap,git,github,notion&theme=dark" />
 </p>
@@ -61,12 +63,15 @@
 ### 
 <h3 align="left">• 👩‍💻 Connect With Me :</h3>
 <br>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/youssifhussein/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/YoussifHussein_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
+  </a>
+   <a href="https://stackoverflow.com/users/28645199/youssif-hussein" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="30" alt="stackoverflow logo"  />
   </a>
   <a href="https://www.facebook.com/youssifhussein32" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="30" alt="facebook logo"  />
@@ -74,8 +79,6 @@
   <a href="https://www.instagram.com/youssifhussein_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/28645199/youssif-hussein" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="30" alt="stackoverflow logo"  />
-  </a>
+
 </div>
 
