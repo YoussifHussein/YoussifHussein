@@ -35,7 +35,7 @@
     <td width="55%" style="vertical-align: top; border: none;">
        <!-- <h3 align="left">• 👩‍💻 About Me :</h3> -->
    
-   <p align="left"> 🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br> 🌱 I’m currently learning Data Engineer & Backend Development .<br><br> 💬 Ask me about Big Data . </p>
+   <p align="left"> 🔭 I’m a graduate of Computer & Information Sciences | Mansoura University .<br><br> 🌱 I’m currently working Data Engineer & Backend Development .<br><br> 💬 Ask me about Big Data . </p>
   
 ###
 <!-- <h3 align="left">• 👩‍💻 Connect With Me :</h3> -->
