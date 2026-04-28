@@ -1,6 +1,7 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Youssif%20Hussein&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Data%20Engineer%20%7C%20Back%20End&descAlignY=62&descSize=17" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=200&section=header&text=Youssif%20Hussein&fontSize=62&fontAlignY=40&animation=fadeIn&fontColor=white&desc=Data%20Engineer%20%7C%20Backend%20&descAlignY=62&descSize=17" />
+
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Data+Pipelines+%7C+ETL+%7C+Data+Warehousing;Apache+Spark+%7C+Hadoop+%7C+Kafka+%7C+Airflow;SQL+%7C+Python+%7C+Data+Modeling+%7C+Big+Data;AWS+%7C+Azure+%7C+GCP+Data+Engineer;From+Raw+Data+%E2%86%92+Scalable+Data+Systems)](https://git.io/typing-svg)
   <p align="center">
@@ -48,7 +49,6 @@
 </picture>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussifHussein&theme=github_dark" width="100%" />
-
 
 </div>
 
